@@ -1,0 +1,11 @@
+{
+  "name": "rss-announcements",
+  "description": "An application for generating rss announcements",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "jstoxml": "~0.2.2",
+    "rss": "~0.3.2"
+  }
+}
